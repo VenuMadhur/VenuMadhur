@@ -1,16 +1,16 @@
 <div align="center">
 
-<img src="venu-hero.svg" alt="Venu Madhur — Software Developer, Python, React and AI Enthusiast" width="100%" />
+<img src="assets/venu-hero.svg" alt="Venu Madhur — Software Developer" width="100%" />
+
+<img src="assets/typing-loop.gif" alt="Animated terminal text: building practical software, engineering with Python and React, exploring applied AI systems" width="100%" />
 
 <br/>
 
-<a href="https://www.linkedin.com/in/cholletivenumadhur/"><img src="https://img.shields.io/badge/LINKEDIN-0B1711?style=for-the-badge&logo=linkedin&logoColor=55D69A" alt="LinkedIn" /></a>
+<a href="https://www.linkedin.com/in/cholletivenumadhur/"><img src="https://img.shields.io/badge/LinkedIn-0B1711?style=flat-square&logo=linkedin&logoColor=55D69A" alt="LinkedIn" /></a>
 &nbsp;
-<a href="mailto:cholletivenumadhur@gmail.com"><img src="https://img.shields.io/badge/EMAIL-0B1711?style=for-the-badge&logo=gmail&logoColor=55D69A" alt="Email" /></a>
+<a href="mailto:cholletivenumadhur@gmail.com"><img src="https://img.shields.io/badge/Email-0B1711?style=flat-square&logo=gmail&logoColor=55D69A" alt="Email" /></a>
 &nbsp;
-<a href="https://github.com/VenuMadhur"><img src="https://img.shields.io/badge/GITHUB-0B1711?style=for-the-badge&logo=github&logoColor=55D69A" alt="GitHub" /></a>
-
-<br/>
+<a href="https://github.com/VenuMadhur"><img src="https://img.shields.io/badge/GitHub-0B1711?style=flat-square&logo=github&logoColor=55D69A" alt="GitHub" /></a>
 
 `HYDERABAD, INDIA` &nbsp; · &nbsp; `B.TECH COMPUTER SCIENCE · 2026`
 
@@ -22,39 +22,76 @@
 
 Software developer interested in building useful applications with thoughtful engineering. Work and learning span Python backend development, React interfaces, relational databases, problem-solving, and applied AI.
 
-I enjoy understanding a product end to end — from defining the problem and shaping the architecture to implementing workflows, handling data, and documenting decisions that keep software maintainable.
+The approach is end-to-end: understand the problem, shape the application, implement the workflows, work carefully with data, and document decisions that make software easier to maintain.
 
 ## TECHNOLOGIES
 
-<div align="center">
+<table>
+<tr>
+<td width="50%" valign="top">
 
-**LANGUAGES**
+**01 / LANGUAGES**
 
-<img src="https://skillicons.dev/icons?i=python,js,sql&theme=dark" alt="Python, JavaScript and SQL" />
+<img src="https://skillicons.dev/icons?i=python,js&theme=dark" height="42" alt="Python and JavaScript icons" />
 
-**FRONTEND**
+`Python` &nbsp; `JavaScript` &nbsp; `SQL`
 
-<img src="https://skillicons.dev/icons?i=html,css,react,tailwind&theme=dark" alt="HTML, CSS, React and Tailwind CSS" />
+</td>
+<td width="50%" valign="top">
 
-**BACKEND & DATA**
+**02 / FRONTEND**
 
-<img src="https://skillicons.dev/icons?i=flask,fastapi,mysql,sqlite&theme=dark" alt="Flask, FastAPI, MySQL and SQLite" />
+<img src="https://skillicons.dev/icons?i=html,css,react,tailwind&theme=dark" height="42" alt="HTML, CSS, React and Tailwind CSS icons" />
 
-**TOOLS**
+`HTML` &nbsp; `CSS` &nbsp; `React` &nbsp; `Tailwind CSS`
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman&theme=dark" alt="Git, GitHub, VS Code and Postman" />
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-</div>
+**03 / BACKEND**
 
-<sub>AI / ML project experience: PyTorch · Flower · Opacus. These are listed as project technologies, not proficiency claims.</sub>
+<img src="https://skillicons.dev/icons?i=flask,fastapi&theme=dark" height="42" alt="Flask and FastAPI icons" />
+
+`Flask` &nbsp; `FastAPI` &nbsp; `SQLAlchemy`
+
+</td>
+<td width="50%" valign="top">
+
+**04 / DATABASES**
+
+<img src="https://skillicons.dev/icons?i=mysql,sqlite&theme=dark" height="42" alt="MySQL and SQLite icons" />
+
+`MySQL` &nbsp; `SQLite`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**05 / DEVELOPER TOOLS**
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman&theme=dark" height="42" alt="Git, GitHub, VS Code and Postman icons" />
+
+`Git` &nbsp; `GitHub` &nbsp; `VS Code` &nbsp; `Postman`
+
+</td>
+<td width="50%" valign="top">
+
+**06 / AI & MACHINE LEARNING**
+
+<sub>Used in project work</sub>
+
+`PyTorch` &nbsp; `Flower` &nbsp; `Opacus`
+
+</td>
+</tr>
+</table>
 
 ---
 
 ## SELECTED WORK
-
-<div align="center">
-  <sub>ENGINEERING PROJECTS / SELECTED REPOSITORIES</sub>
-</div>
 
 <table>
 <tr>
@@ -68,7 +105,7 @@ A platform covering subscription plans, payment states, invoices, refunds, repor
 
 `React` `FastAPI` `PostgreSQL` `Redis` `Celery`
 
-[**EXPLORE REPOSITORY ↗**](https://github.com/VenuMadhur/CineVerse)
+[**VIEW REPOSITORY ↗**](https://github.com/VenuMadhur/CineVerse)
 
 </td>
 <td width="50%" valign="top">
@@ -81,9 +118,9 @@ Organized around learner profiles, skill assessment, personalized mentoring, cod
 
 `Python` `Flask` `React` `SQLAlchemy`
 
-<sub>Public documentation distinguishes implemented foundations from planned modules. AI integration and remaining workflows should be verified before describing this as complete.</sub>
+<sub>Public documentation distinguishes implemented foundations from planned modules. AI integration and remaining workflows need verification.</sub>
 
-[**EXPLORE REPOSITORY ↗**](https://github.com/VenuMadhur/ai-programming-mentor)
+[**VIEW REPOSITORY ↗**](https://github.com/VenuMadhur/ai-programming-mentor)
 
 </td>
 </tr>
@@ -98,7 +135,7 @@ A React application concept for organizing medicines, appointments, medical docu
 
 `React` `JavaScript`
 
-[**EXPLORE REPOSITORY ↗**](https://github.com/VenuMadhur/VIA)
+[**VIEW REPOSITORY ↗**](https://github.com/VenuMadhur/VIA)
 
 </td>
 <td width="50%" valign="top">
@@ -111,40 +148,52 @@ Explores browser speech capabilities and Gemini-powered conversational workflows
 
 `React` `JavaScript` `Gemini API`
 
-[**EXPLORE REPOSITORY ↗**](https://github.com/VenuMadhur/Voicebot)
+[**VIEW REPOSITORY ↗**](https://github.com/VenuMadhur/Voicebot)
 
 </td>
 </tr>
 </table>
 
-### More repositories
+### MORE WORK
 
-| Project | Focus |
-|:--|:--|
-| [Weather Status Viewer](https://github.com/VenuMadhur/weather-status-viewer) | React interface and API integration |
-| [Mini-Projects](https://github.com/VenuMadhur/Mini-Projects) | Frontend exercises and small applications |
-
-<sub>Project summaries should always match the current implementation. Add genuine screenshots, architecture diagrams, tests, and deployed previews to each repository as they become available.</sub>
+- [Weather Status Viewer](https://github.com/VenuMadhur/weather-status-viewer) — React interface and API integration.
+- [Mini-Projects](https://github.com/VenuMadhur/Mini-Projects) — frontend exercises and small applications.
 
 ---
 
-## CURRENT FOCUS
+## CURRENT ENGINEERING FOCUS
 
-<div align="center">
+<table>
+<tr>
+<td width="33%" valign="top">
 
-| 01 / PROBLEM SOLVING | 02 / APPLICATION ENGINEERING | 03 / APPLIED AI |
-|:---:|:---:|:---:|
-| Data structures, algorithms, and writing clear solutions | Python APIs, React applications, data modeling, and testing | Exploring practical machine learning and AI-powered workflows |
+**01 / PROBLEM SOLVING**
 
-</div>
+Data structures, algorithms, and writing clear solutions.
+
+</td>
+<td width="33%" valign="top">
+
+**02 / APPLICATION ENGINEERING**
+
+Python APIs, React applications, data modeling, and testing.
+
+</td>
+<td width="33%" valign="top">
+
+**03 / APPLIED AI**
+
+Exploring practical machine learning and AI-powered workflows.
+
+</td>
+</tr>
+</table>
 
 ## GITHUB ACTIVITY
 
-[View contribution history](https://github.com/VenuMadhur?tab=overview) &nbsp; · &nbsp; [Explore repositories](https://github.com/VenuMadhur?tab=repositories)
+[Contribution history](https://github.com/VenuMadhur?tab=overview) &nbsp; · &nbsp; [All repositories](https://github.com/VenuMadhur?tab=repositories)
 
-<!-- Enable the contribution snake after the workflow has completed successfully.
-     The workflow publishes the SVG to the output branch. -->
-<!--
+<!-- Uncomment after the contribution workflow succeeds and publishes to output.
 <div align="center">
   <img src="https://raw.githubusercontent.com/VenuMadhur/VenuMadhur/output/github-contribution-grid-snake.svg" alt="Animated GitHub contribution graph" width="100%" />
 </div>
@@ -158,13 +207,11 @@ Explores browser speech capabilities and Gemini-powered conversational workflows
 
 Open to connecting about software engineering, full-stack development, and applied AI.
 
-<a href="https://www.linkedin.com/in/cholletivenumadhur/">LINKEDIN</a>
-&nbsp; / &nbsp;
-<a href="mailto:cholletivenumadhur@gmail.com">EMAIL</a>
-&nbsp; / &nbsp;
-<a href="https://github.com/VenuMadhur">GITHUB</a>
+[LINKEDIN](https://www.linkedin.com/in/cholletivenumadhur/) &nbsp; / &nbsp;
+[EMAIL](mailto:cholletivenumadhur@gmail.com) &nbsp; / &nbsp;
+[GITHUB](https://github.com/VenuMadhur)
 
-<br/><br/>
+<br/>
 
 <sub>BUILD WITH INTENT. LEARN BY SHIPPING. IMPROVE WITH EVIDENCE.</sub>
 
