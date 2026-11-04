@@ -1,20 +1,10 @@
-<div align="center">
+ <div align="center">
 
-<p>
-  <img src="https://img.shields.io/badge/HELLO_WORLD-0B1220?style=for-the-badge&labelColor=0B1220&color=38BDF8" />
-</p>
+<img src="./assets/venu-midnight-tech-hero.gif" width="100%" alt="Venu Madhur — Software Developer" />
 
-# Venu Madhur<span>.</span>
+<br/><br/>
 
-### Software Developer
-
-**Building practical software · Exploring AI · Solving problems**
-
-Python &nbsp;·&nbsp; Full-Stack Development &nbsp;·&nbsp; Artificial Intelligence
-
-<br/>
-
-<img src="./assets/venu-typing-loop.gif" width="480" alt="Developer introduction" />
+<img src="./assets/venu-typing-loop.gif" width="460" alt="Developer introduction" />
 
 <br/><br/>
 
@@ -28,14 +18,9 @@ Python &nbsp;·&nbsp; Full-Stack Development &nbsp;·&nbsp; Artificial Intellige
   <img src="https://img.shields.io/badge/Email-0B1220?style=for-the-badge&logo=gmail&logoColor=38BDF8" />
 </a>
 
-<br/>
-
-<sub>Hyderabad, India &nbsp;·&nbsp; B.Tech CSE, 2026</sub>
-
 </div>
 
 ---
-
 ## ABOUT
 
 Software developer interested in building useful applications with thoughtful engineering. Work and learning span Python backend development, React interfaces, relational databases, problem-solving, and applied AI.
