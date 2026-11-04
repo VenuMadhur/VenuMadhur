@@ -104,7 +104,7 @@ A platform for managing subscription plans, payments, invoices, refunds, and adm
 
 `React` `FastAPI` `PostgreSQL` `Redis` `Celery`
 
-[VIEW REPOSITORY ↗](YOUR_CINEVERSE_REPOSITORY_URL)
+[VIEW REPOSITORY ↗](https://github.com/VenuMadhur/CineVerse)
 
 </td>
     <td width="50%" valign="top">
@@ -117,7 +117,7 @@ A learning platform with user profiles, skill assessments, learning analysis, an
 
 `Python` `Flask` `React` `SQLAlchemy`
 
-[VIEW REPOSITORY ↗](YOUR_AI_MENTOR_REPOSITORY_URL)
+[VIEW REPOSITORY ↗](https://github.com/VenuMadhur/ai-programming-mentor)
 
 </td>
   </tr>
@@ -132,7 +132,7 @@ A health management application concept for organizing medicines, appointments, 
 
 `React` `JavaScript`
 
-[VIEW REPOSITORY ↗](YOUR_VIA_REPOSITORY_URL)
+[VIEW REPOSITORY ↗](https://github.com/VenuMadhur/VIA)
 
 </td>
     <td width="50%" valign="top">
@@ -145,7 +145,7 @@ A browser-based conversational assistant exploring speech interaction and Gemini
 
 `React` `JavaScript` `Gemini API`
 
-[VIEW REPOSITORY ↗](YOUR_VOICEBOT_REPOSITORY_URL)
+[VIEW REPOSITORY ↗](https://github.com/VenuMadhur/Voicebot)
 
  </td>
   </tr>
