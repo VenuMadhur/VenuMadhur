@@ -11,7 +11,11 @@
 
 </div>
 
-<img src="assets/typing-loop.gif" alt="Animated developer introduction" width="100%" />
+<img
+  src="assets/typing-loop.gif"
+  alt="Animated software engineering introduction"
+  width="100%"
+/>
 
 <div align="center">
 
