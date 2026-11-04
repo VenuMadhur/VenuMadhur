@@ -1,34 +1,36 @@
- <div align="center">
+<div align="center">
 
-  <h3>Venu Madhur</h3>
+<p>
+  <img src="https://img.shields.io/badge/HELLO_WORLD-0B1220?style=for-the-badge&labelColor=0B1220&color=38BDF8" />
+</p>
 
-  <p><strong>Software Developer</strong></p>
+# Venu Madhur<span>.</span>
 
-  <p>Python &nbsp;·&nbsp; Full-Stack Development &nbsp;·&nbsp; Artificial Intelligence</p>
+### Software Developer
 
-  <p>
-    Hyderabad, India &nbsp;·&nbsp; B.Tech Computer Science & Engineering, 2026
-  </p>
+**Building practical software · Exploring AI · Solving problems**
 
-  <br/>
+Python &nbsp;·&nbsp; Full-Stack Development &nbsp;·&nbsp; Artificial Intelligence
 
-  <img src="./assets/venu-typing-loop.gif" alt="Building practical software, full-stack applications and exploring AI" width="460" />
+<br/>
 
-  <br/><br/>
+<img src="./assets/venu-typing-loop.gif" width="480" alt="Developer introduction" />
 
-  <p>
-    <a href="https://github.com/VenuMadhur">
-      <img src="https://img.shields.io/badge/GitHub-101713?style=for-the-badge&logo=github&logoColor=55D69A" alt="GitHub"/>
-    </a>
-    &nbsp;
-    <a href="https://www.linkedin.com/in/cholletivenumadhur/">
-      <img src="https://img.shields.io/badge/LinkedIn-101713?style=for-the-badge&logo=linkedin&logoColor=55D69A" alt="LinkedIn"/>
-    </a>
-    &nbsp;
-    <a href="mailto:cholletivenumadhur@gmail.com">
-      <img src="https://img.shields.io/badge/Email-101713?style=for-the-badge&logo=gmail&logoColor=55D69A" alt="Email"/>
-    </a>
-  </p>
+<br/><br/>
+
+<a href="https://github.com/VenuMadhur">
+  <img src="https://img.shields.io/badge/GitHub-0B1220?style=for-the-badge&logo=github&logoColor=38BDF8" />
+</a>
+<a href="https://www.linkedin.com/in/cholletivenumadhur/">
+  <img src="https://img.shields.io/badge/LinkedIn-0B1220?style=for-the-badge&logo=linkedin&logoColor=38BDF8" />
+</a>
+<a href="mailto:cholletivenumadhur@gmail.com">
+  <img src="https://img.shields.io/badge/Email-0B1220?style=for-the-badge&logo=gmail&logoColor=38BDF8" />
+</a>
+
+<br/>
+
+<sub>Hyderabad, India &nbsp;·&nbsp; B.Tech CSE, 2026</sub>
 
 </div>
 
