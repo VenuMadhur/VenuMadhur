@@ -36,45 +36,16 @@ I enjoy understanding problems from the ground up — designing solutions, build
 
 Currently focused on strengthening my engineering skills and building projects that solve meaningful problems.
 ---
-## TECHNOLOGIES
+## TECHNICAL EXPERTISE
 
-### 01 / LANGUAGES
-
-<img src="https://skillicons.dev/icons?i=python,js" height="32" alt="Python and JavaScript"/>
-
-`Python` `JavaScript` `SQL`
-
-### 02 / FRONTEND
-
-<img src="https://skillicons.dev/icons?i=html,css,react,tailwind" height="32" alt="Frontend technologies"/>
-
-`HTML` `CSS` `React` `Tailwind CSS`
-
-### 03 / BACKEND
-
-<img src="https://skillicons.dev/icons?i=flask,fastapi" height="32" alt="Backend technologies"/>
-
-`Flask` `FastAPI` `SQLAlchemy`
-
-### 04 / DATABASES
-
-<img src="https://skillicons.dev/icons?i=mysql,sqlite" height="32" alt="Database technologies"/>
-
-`MySQL` `SQLite`
-
-### 05 / DEVELOPER TOOLS
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman" height="32" alt="Developer tools"/>
-
-`Git` `GitHub` `VS Code` `Postman`
-
-### 06 / AI & MACHINE LEARNING
-
-<img src="https://skillicons.dev/icons?i=pytorch" height="32" alt="Machine learning technology"/>
-
-`PyTorch` `Flower` `Opacus`
-
----
+| CATEGORY | TECHNOLOGIES |
+|:--|:--|
+| <img src="https://img.shields.io/badge/01-38BDF8?style=flat-square&labelColor=0B1220" /> **LANGUAGES** | <img src="https://skillicons.dev/icons?i=python,js&theme=dark" height="24" /> `Python` `JavaScript` `SQL` |
+| <img src="https://img.shields.io/badge/02-38BDF8?style=flat-square&labelColor=0B1220" /> **FRONTEND** | <img src="https://skillicons.dev/icons?i=html,css,react,tailwind&theme=dark" height="24" /> `HTML` `CSS` `React` `Tailwind CSS` |
+| <img src="https://img.shields.io/badge/03-38BDF8?style=flat-square&labelColor=0B1220" /> **BACKEND** | <img src="https://skillicons.dev/icons?i=flask,fastapi&theme=dark" height="24" /> `Flask` `FastAPI` `SQLAlchemy` |
+| <img src="https://img.shields.io/badge/04-38BDF8?style=flat-square&labelColor=0B1220" /> **DATABASES** | <img src="https://skillicons.dev/icons?i=mysql,sqlite&theme=dark" height="24" /> `MySQL` `SQLite` |
+| <img src="https://img.shields.io/badge/05-38BDF8?style=flat-square&labelColor=0B1220" /> **AI & ML** | <img src="https://skillicons.dev/icons?i=pytorch&theme=dark" height="24" /> `PyTorch` `Flower` `Opacus` |
+| <img src="https://img.shields.io/badge/06-38BDF8?style=flat-square&labelColor=0B1220" /> **DEVELOPER TOOLS** | <img src="https://skillicons.dev/icons?i=git,github,vscode,postman&theme=dark" height="24" /> `Git` `GitHub` `VS Code` `Postman` |
 
 ---
 
