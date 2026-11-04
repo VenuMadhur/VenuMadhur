@@ -36,32 +36,60 @@ I enjoy understanding problems from the ground up — designing solutions, build
 
 Currently focused on strengthening my engineering skills and building projects that solve meaningful problems.
 ---
-## 🛠️ TECHNOLOGIES & TOOLS
+## TECHNICAL EXPERTISE
 
-**01 / PROGRAMMING LANGUAGES**
+<table>
+  <tr>
+    <td width="50%" valign="top">
+
+**<sub>01 / PROGRAMMING LANGUAGES</sub>**
 
 <img src="https://img.shields.io/badge/Python-0B1220?style=flat&logo=python&logoColor=38BDF8" /> <img src="https://img.shields.io/badge/JavaScript-0B1220?style=flat&logo=javascript&logoColor=F7DF1E" /> <img src="https://img.shields.io/badge/SQL-0B1220?style=flat&logo=postgresql&logoColor=38BDF8" />
 
-**02 / FRONTEND DEVELOPMENT**
+    </td>
+    <td width="50%" valign="top">
+
+**<sub>02 / FRONTEND DEVELOPMENT</sub>**
 
 <img src="https://img.shields.io/badge/HTML5-0B1220?style=flat&logo=html5&logoColor=E34F26" /> <img src="https://img.shields.io/badge/CSS3-0B1220?style=flat&logo=css3&logoColor=1572B6" /> <img src="https://img.shields.io/badge/React-0B1220?style=flat&logo=react&logoColor=38BDF8" /> <img src="https://img.shields.io/badge/Tailwind_CSS-0B1220?style=flat&logo=tailwindcss&logoColor=38BDF8" />
 
-**03 / BACKEND DEVELOPMENT**
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+
+**<sub>03 / BACKEND DEVELOPMENT</sub>**
 
 <img src="https://img.shields.io/badge/Flask-0B1220?style=flat&logo=flask&logoColor=F8FAFC" /> <img src="https://img.shields.io/badge/FastAPI-0B1220?style=flat&logo=fastapi&logoColor=009688" /> <img src="https://img.shields.io/badge/SQLAlchemy-0B1220?style=flat&logo=sqlalchemy&logoColor=D71F00" />
 
-**04 / DATABASES**
+    </td>
+    <td width="50%" valign="top">
+
+**<sub>04 / DATABASES</sub>**
 
 <img src="https://img.shields.io/badge/MySQL-0B1220?style=flat&logo=mysql&logoColor=4479A1" /> <img src="https://img.shields.io/badge/SQLite-0B1220?style=flat&logo=sqlite&logoColor=38BDF8" />
 
-**05 / AI & MACHINE LEARNING**
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
 
-<img src="https://img.shields.io/badge/PyTorch-0B1220?style=flat&logo=pytorch&logoColor=EE4C2C" /> <img src="https://img.shields.io/badge/Flower-0B1220?style=flat&logoColor=38BDF8" /> <img src="https://img.shields.io/badge/Opacus-0B1220?style=flat&logoColor=A78BFA" />
+**<sub>05 / AI & MACHINE LEARNING</sub>**
 
-**06 / DEVELOPER TOOLS**
+<img src="https://img.shields.io/badge/PyTorch-0B1220?style=flat&logo=pytorch&logoColor=EE4C2C" /> <img src="https://img.shields.io/badge/Flower-0B1220?style=flat" /> <img src="https://img.shields.io/badge/Opacus-0B1220?style=flat" />
+
+    </td>
+    <td width="50%" valign="top">
+
+**<sub>06 / DEVELOPER TOOLS</sub>**
 
 <img src="https://img.shields.io/badge/Git-0B1220?style=flat&logo=git&logoColor=F05032" /> <img src="https://img.shields.io/badge/GitHub-0B1220?style=flat&logo=github&logoColor=F8FAFC" /> <img src="https://img.shields.io/badge/VS_Code-0B1220?style=flat&logo=visualstudiocode&logoColor=38BDF8" /> <img src="https://img.shields.io/badge/Postman-0B1220?style=flat&logo=postman&logoColor=FF6C37" />
 
+    </td>
+  </tr>
+</table>
+
+---
 ---
 
 ## SELECTED WORK
