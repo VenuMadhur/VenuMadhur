@@ -106,7 +106,7 @@ A platform for managing subscription plans, payments, invoices, refunds, and adm
 
 [VIEW REPOSITORY ↗](YOUR_CINEVERSE_REPOSITORY_URL)
 
-    </td>
+</td>
     <td width="50%" valign="top">
 
 ### 02 — AI Programming Mentor
@@ -119,7 +119,7 @@ A learning platform with user profiles, skill assessments, learning analysis, an
 
 [VIEW REPOSITORY ↗](YOUR_AI_MENTOR_REPOSITORY_URL)
 
-    </td>
+</td>
   </tr>
   <tr>
     <td width="50%" valign="top">
@@ -134,7 +134,7 @@ A health management application concept for organizing medicines, appointments, 
 
 [VIEW REPOSITORY ↗](YOUR_VIA_REPOSITORY_URL)
 
-    </td>
+</td>
     <td width="50%" valign="top">
 
 ### 04 — Voicebot
@@ -147,7 +147,7 @@ A browser-based conversational assistant exploring speech interaction and Gemini
 
 [VIEW REPOSITORY ↗](YOUR_VOICEBOT_REPOSITORY_URL)
 
-    </td>
+ </td>
   </tr>
 </table>
 
