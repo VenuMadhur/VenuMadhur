@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="assets/venu-hero.svg" alt="Venu Madhur — Software Developer" width="100%" />
+<img src="venu-hero.svg" alt="Venu Madhur — Software Developer" width="100%" />
 
-<img src="assets/typing-loop.gif" alt="Animated terminal text: building practical software, engineering with Python and React, exploring applied AI systems" width="100%" />
+<img src="typing-loop.gif" alt="Animated terminal text: building practical software, engineering with Python and React, exploring applied AI systems" width="100%" />
 
 <br/>
 
