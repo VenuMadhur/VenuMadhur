@@ -1,133 +1,171 @@
 <div align="center">
 
-<img src="venu-mark.svg" alt="VM monogram in an emerald frame" width="92" />
+<img src="assets/venu-hero.svg" alt="Venu Madhur — Software Developer, Python, React and AI Enthusiast" width="100%" />
 
-# Venu Madhur
+<br/>
 
-### Software Developer · Python · React · AI Enthusiast
+<a href="https://www.linkedin.com/in/cholletivenumadhur/"><img src="https://img.shields.io/badge/LINKEDIN-0B1711?style=for-the-badge&logo=linkedin&logoColor=55D69A" alt="LinkedIn" /></a>
+&nbsp;
+<a href="mailto:cholletivenumadhur@gmail.com"><img src="https://img.shields.io/badge/EMAIL-0B1711?style=for-the-badge&logo=gmail&logoColor=55D69A" alt="Email" /></a>
+&nbsp;
+<a href="https://github.com/VenuMadhur"><img src="https://img.shields.io/badge/GITHUB-0B1711?style=for-the-badge&logo=github&logoColor=55D69A" alt="GitHub" /></a>
 
-**Building practical software at the intersection of product engineering and intelligent systems.**
+<br/>
 
-[LinkedIn](https://www.linkedin.com/in/cholletivenumadhur/) ·
-[Email](mailto:cholletivenumadhur@gmail.com) ·
-[GitHub](https://github.com/VenuMadhur)
-
-`Hyderabad, India` &nbsp; / &nbsp; `B.Tech CSE · 2026`
+`HYDERABAD, INDIA` &nbsp; · &nbsp; `B.TECH COMPUTER SCIENCE · 2026`
 
 </div>
 
 ---
 
-## / PROFILE
+## ABOUT
 
-A computer science graduate interested in turning ideas into useful, well-structured software. Current work spans Python backend development, React interfaces, relational data, problem-solving, and applied AI.
+Software developer interested in building useful applications with thoughtful engineering. Work and learning span Python backend development, React interfaces, relational databases, problem-solving, and applied AI.
 
-The focus is on understanding systems end to end: shaping a clear problem, designing the application, implementing the core workflows, and documenting the decisions that make the software maintainable.
+I enjoy understanding a product end to end — from defining the problem and shaping the architecture to implementing workflows, handling data, and documenting decisions that keep software maintainable.
 
-## / TECHNICAL ARSENAL
+## TECHNOLOGIES
 
-**Programming**  
-`Python` `JavaScript` `SQL`
+<div align="center">
 
-**Frontend engineering**  
-`HTML` `CSS` `React` `Tailwind CSS`
+**LANGUAGES**
 
-**Backend engineering**  
-`Flask` `FastAPI` `SQLAlchemy`
+<img src="https://skillicons.dev/icons?i=python,js,sql&theme=dark" alt="Python, JavaScript and SQL" />
 
-**Data**  
-`MySQL` `SQLite`
+**FRONTEND**
 
-**AI / machine learning — project experience**  
-`PyTorch` `Flower` `Opacus`
+<img src="https://skillicons.dev/icons?i=html,css,react,tailwind&theme=dark" alt="HTML, CSS, React and Tailwind CSS" />
 
-**Developer tools**  
-`Git` `GitHub` `VS Code` `Postman`
+**BACKEND & DATA**
+
+<img src="https://skillicons.dev/icons?i=flask,fastapi,mysql,sqlite&theme=dark" alt="Flask, FastAPI, MySQL and SQLite" />
+
+**TOOLS**
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman&theme=dark" alt="Git, GitHub, VS Code and Postman" />
+
+</div>
+
+<sub>AI / ML project experience: PyTorch · Flower · Opacus. These are listed as project technologies, not proficiency claims.</sub>
 
 ---
 
-## / SELECTED ENGINEERING
+## SELECTED WORK
 
-A selection of public repositories currently visible on this profile. Project descriptions are intentionally limited to what their public repository pages document.
+<div align="center">
+  <sub>ENGINEERING PROJECTS / SELECTED REPOSITORIES</sub>
+</div>
 
 <table>
-  <tr>
-    <td width="50%" valign="top">
-      <strong>01 / CineVerse</strong><br />
-      <sub>FULL-STACK · SUBSCRIPTION SYSTEMS</sub>
-      <p>A subscription and billing workflow platform covering plans, payment states, invoices, refunds, reporting, and administrative operations.</p>
-      <p><code>React</code> <code>FastAPI</code> <code>PostgreSQL</code> <code>Redis</code> <code>Celery</code></p>
-      <a href="https://github.com/VenuMadhur/CineVerse">Repository & documentation ↗</a>
-    </td>
-    <td width="50%" valign="top">
-      <strong>02 / AI Programming Mentor</strong><br />
-      <sub>AI · LEARNING SYSTEMS</sub>
-      <p>A programming-learning platform organized around learner profiles, skill assessment, personalized mentoring, coding challenges, evaluation, and progress.</p>
-      <p><code>Python</code> <code>Flask</code> <code>React</code> <code>SQLAlchemy</code></p>
-      <p><em>Current public documentation distinguishes implemented foundations from planned modules; real AI integration and remaining workflows require completion.</em></p>
-      <a href="https://github.com/VenuMadhur/ai-programming-mentor">Repository ↗</a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <strong>03 / VIA</strong><br />
-      <sub>REACT · FAMILY HEALTH ORGANIZATION</sub>
-      <p>A personal and family health organizer concept for keeping medicines, appointments, medical documents, bills, reminders, and records together.</p>
-      <p><code>React</code> <code>JavaScript</code></p>
-      <a href="https://github.com/VenuMadhur/VIA">Repository ↗</a>
-    </td>
-    <td width="50%" valign="top">
-      <strong>04 / Voicebot</strong><br />
-      <sub>AI · VOICE INTERFACES</sub>
-      <p>A voice and text assistant exploring browser speech capabilities and Gemini-powered conversational workflows.</p>
-      <p><code>React</code> <code>JavaScript</code> <code>Gemini API</code></p>
-      <a href="https://github.com/VenuMadhur/Voicebot">Repository ↗</a>
-    </td>
-  </tr>
+<tr>
+<td width="50%" valign="top">
+
+### 01 — CineVerse
+
+**Full-stack subscription and billing workflows**
+
+A platform covering subscription plans, payment states, invoices, refunds, reporting, and administrative operations.
+
+`React` `FastAPI` `PostgreSQL` `Redis` `Celery`
+
+[**EXPLORE REPOSITORY ↗**](https://github.com/VenuMadhur/CineVerse)
+
+</td>
+<td width="50%" valign="top">
+
+### 02 — AI Programming Mentor
+
+**A structured programming-learning platform**
+
+Organized around learner profiles, skill assessment, personalized mentoring, coding challenges, evaluation, and progress.
+
+`Python` `Flask` `React` `SQLAlchemy`
+
+<sub>Public documentation distinguishes implemented foundations from planned modules. AI integration and remaining workflows should be verified before describing this as complete.</sub>
+
+[**EXPLORE REPOSITORY ↗**](https://github.com/VenuMadhur/ai-programming-mentor)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 03 — VIA
+
+**Personal and family health organization**
+
+A React application concept for organizing medicines, appointments, medical documents, bills, reminders, and health records.
+
+`React` `JavaScript`
+
+[**EXPLORE REPOSITORY ↗**](https://github.com/VenuMadhur/VIA)
+
+</td>
+<td width="50%" valign="top">
+
+### 04 — Voicebot
+
+**Voice and text assistant**
+
+Explores browser speech capabilities and Gemini-powered conversational workflows through a web interface.
+
+`React` `JavaScript` `Gemini API`
+
+[**EXPLORE REPOSITORY ↗**](https://github.com/VenuMadhur/Voicebot)
+
+</td>
+</tr>
 </table>
 
-### More work
+### More repositories
 
-- [Weather Status Viewer](https://github.com/VenuMadhur/weather-status-viewer) — a React weather interface using API integration.
-- [Mini-Projects](https://github.com/VenuMadhur/Mini-Projects) — a collection of frontend exercises and small applications.
+| Project | Focus |
+|:--|:--|
+| [Weather Status Viewer](https://github.com/VenuMadhur/weather-status-viewer) | React interface and API integration |
+| [Mini-Projects](https://github.com/VenuMadhur/Mini-Projects) | Frontend exercises and small applications |
 
-> **Portfolio note:** Screenshots and deployed demos are not linked here because verified public preview URLs were not established during this profile review. Add them when available; never substitute mock metrics or invented deployment links.
+<sub>Project summaries should always match the current implementation. Add genuine screenshots, architecture diagrams, tests, and deployed previews to each repository as they become available.</sub>
 
 ---
 
-## / CURRENT ENGINEERING FOCUS
+## CURRENT FOCUS
 
-- Strengthening data structures, algorithms, and problem-solving fundamentals.
-- Building full-stack applications with Python and React.
-- Improving API design, database modeling, and maintainable backend structure.
-- Exploring practical applications of AI and machine learning.
-- Writing clearer project documentation and testing complete user workflows.
+<div align="center">
 
-## / ACTIVITY
+| 01 / PROBLEM SOLVING | 02 / APPLICATION ENGINEERING | 03 / APPLIED AI |
+|:---:|:---:|:---:|
+| Data structures, algorithms, and writing clear solutions | Python APIs, React applications, data modeling, and testing | Exploring practical machine learning and AI-powered workflows |
 
-GitHub's native contribution calendar and repository activity are the source of truth for current activity.  
-[Explore my contributions](https://github.com/VenuMadhur?tab=overview) · [Browse all repositories](https://github.com/VenuMadhur?tab=repositories)
+</div>
 
-<!-- Optional: after the snake workflow succeeds, uncomment this image.
-<p align="center">
-  <img src="https://raw.githubusercontent.com/VenuMadhur/VenuMadhur/output/github-contribution-grid-snake.svg" alt="Animated visualization of GitHub contribution activity" />
-</p>
+## GITHUB ACTIVITY
+
+[View contribution history](https://github.com/VenuMadhur?tab=overview) &nbsp; · &nbsp; [Explore repositories](https://github.com/VenuMadhur?tab=repositories)
+
+<!-- Enable the contribution snake after the workflow has completed successfully.
+     The workflow publishes the SVG to the output branch. -->
+<!--
+<div align="center">
+  <img src="https://raw.githubusercontent.com/VenuMadhur/VenuMadhur/output/github-contribution-grid-snake.svg" alt="Animated GitHub contribution graph" width="100%" />
+</div>
 -->
 
 ---
 
-## / CONTACT
-
-Interested in software development, full-stack engineering, and applied AI.
-
-- **LinkedIn:** [cholletivenumadhur](https://www.linkedin.com/in/cholletivenumadhur/)
-- **Email:** [cholletivenumadhur@gmail.com](mailto:cholletivenumadhur@gmail.com)
-- **GitHub:** [github.com/VenuMadhur](https://github.com/VenuMadhur)
-
 <div align="center">
 
-**Build with intent. Learn by shipping. Improve with evidence.**
+### LET'S BUILD SOMETHING USEFUL.
 
-<sub>VENU MADHUR / HYDERABAD, INDIA</sub>
+Open to connecting about software engineering, full-stack development, and applied AI.
+
+<a href="https://www.linkedin.com/in/cholletivenumadhur/">LINKEDIN</a>
+&nbsp; / &nbsp;
+<a href="mailto:cholletivenumadhur@gmail.com">EMAIL</a>
+&nbsp; / &nbsp;
+<a href="https://github.com/VenuMadhur">GITHUB</a>
+
+<br/><br/>
+
+<sub>BUILD WITH INTENT. LEARN BY SHIPPING. IMPROVE WITH EVIDENCE.</sub>
 
 </div>
