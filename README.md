@@ -1,21 +1,22 @@
 <div align="center">
 
-<img src="venu-hero.svg" alt="Venu Madhur — Software Developer" width="100%" />
+<img src="assets/venu-hero.svg" alt="Venu Madhur — Software Developer, Python, React and AI Enthusiast" width="100%" />
 
-<img src="typing-loop.gif" alt="Animated terminal text: building practical software, engineering with Python and React, exploring applied AI systems" width="100%" />
+<img src="assets/typing-loop.gif" alt="Animated terminal text: building practical software, engineering with Python and React, exploring applied AI systems" width="100%" />
 
 <br/>
 
-<a href="https://www.linkedin.com/in/cholletivenumadhur/"><img src="https://img.shields.io/badge/LinkedIn-0B1711?style=flat-square&logo=linkedin&logoColor=55D69A" alt="LinkedIn" /></a>
-&nbsp;
-<a href="mailto:cholletivenumadhur@gmail.com"><img src="https://img.shields.io/badge/Email-0B1711?style=flat-square&logo=gmail&logoColor=55D69A" alt="Email" /></a>
-&nbsp;
-<a href="https://github.com/VenuMadhur"><img src="https://img.shields.io/badge/GitHub-0B1711?style=flat-square&logo=github&logoColor=55D69A" alt="GitHub" /></a>
+<a href="https://www.linkedin.com/in/cholletivenumadhur/"><img src="assets/linkedin.svg" alt="LinkedIn" width="24" height="24" /></a>
+&nbsp;&nbsp;&nbsp;
+<a href="mailto:cholletivenumadhur@gmail.com"><img src="assets/email.svg" alt="Email" width="24" height="24" /></a>
+&nbsp;&nbsp;&nbsp;
+<a href="https://github.com/VenuMadhur"><img src="assets/github.svg" alt="GitHub" width="24" height="24" /></a>
+
+<br/><br/>
 
 `HYDERABAD, INDIA` &nbsp; · &nbsp; `B.TECH COMPUTER SCIENCE · 2026`
 
 </div>
-
 ---
 
 ## ABOUT
