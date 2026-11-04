@@ -36,16 +36,31 @@ I enjoy understanding problems from the ground up — designing solutions, build
 
 Currently focused on strengthening my engineering skills and building projects that solve meaningful problems.
 ---
-## TECHNICAL EXPERTISE
+## 🛠️ TECHNOLOGIES & TOOLS
 
-| CATEGORY | TECHNOLOGIES |
-|:--|:--|
-| <img src="https://img.shields.io/badge/01-38BDF8?style=flat-square&labelColor=0B1220" /> **LANGUAGES** | <img src="https://skillicons.dev/icons?i=python,js&theme=dark" height="24" /> `Python` `JavaScript` `SQL` |
-| <img src="https://img.shields.io/badge/02-38BDF8?style=flat-square&labelColor=0B1220" /> **FRONTEND** | <img src="https://skillicons.dev/icons?i=html,css,react,tailwind&theme=dark" height="24" /> `HTML` `CSS` `React` `Tailwind CSS` |
-| <img src="https://img.shields.io/badge/03-38BDF8?style=flat-square&labelColor=0B1220" /> **BACKEND** | <img src="https://skillicons.dev/icons?i=flask,fastapi&theme=dark" height="24" /> `Flask` `FastAPI` `SQLAlchemy` |
-| <img src="https://img.shields.io/badge/04-38BDF8?style=flat-square&labelColor=0B1220" /> **DATABASES** | <img src="https://skillicons.dev/icons?i=mysql,sqlite&theme=dark" height="24" /> `MySQL` `SQLite` |
-| <img src="https://img.shields.io/badge/05-38BDF8?style=flat-square&labelColor=0B1220" /> **AI & ML** | <img src="https://skillicons.dev/icons?i=pytorch&theme=dark" height="24" /> `PyTorch` `Flower` `Opacus` |
-| <img src="https://img.shields.io/badge/06-38BDF8?style=flat-square&labelColor=0B1220" /> **DEVELOPER TOOLS** | <img src="https://skillicons.dev/icons?i=git,github,vscode,postman&theme=dark" height="24" /> `Git` `GitHub` `VS Code` `Postman` |
+**01 / PROGRAMMING LANGUAGES**
+
+<img src="https://img.shields.io/badge/Python-0B1220?style=flat&logo=python&logoColor=38BDF8" /> <img src="https://img.shields.io/badge/JavaScript-0B1220?style=flat&logo=javascript&logoColor=F7DF1E" /> <img src="https://img.shields.io/badge/SQL-0B1220?style=flat&logo=postgresql&logoColor=38BDF8" />
+
+**02 / FRONTEND DEVELOPMENT**
+
+<img src="https://img.shields.io/badge/HTML5-0B1220?style=flat&logo=html5&logoColor=E34F26" /> <img src="https://img.shields.io/badge/CSS3-0B1220?style=flat&logo=css3&logoColor=1572B6" /> <img src="https://img.shields.io/badge/React-0B1220?style=flat&logo=react&logoColor=38BDF8" /> <img src="https://img.shields.io/badge/Tailwind_CSS-0B1220?style=flat&logo=tailwindcss&logoColor=38BDF8" />
+
+**03 / BACKEND DEVELOPMENT**
+
+<img src="https://img.shields.io/badge/Flask-0B1220?style=flat&logo=flask&logoColor=F8FAFC" /> <img src="https://img.shields.io/badge/FastAPI-0B1220?style=flat&logo=fastapi&logoColor=009688" /> <img src="https://img.shields.io/badge/SQLAlchemy-0B1220?style=flat&logo=sqlalchemy&logoColor=D71F00" />
+
+**04 / DATABASES**
+
+<img src="https://img.shields.io/badge/MySQL-0B1220?style=flat&logo=mysql&logoColor=4479A1" /> <img src="https://img.shields.io/badge/SQLite-0B1220?style=flat&logo=sqlite&logoColor=38BDF8" />
+
+**05 / AI & MACHINE LEARNING**
+
+<img src="https://img.shields.io/badge/PyTorch-0B1220?style=flat&logo=pytorch&logoColor=EE4C2C" /> <img src="https://img.shields.io/badge/Flower-0B1220?style=flat&logoColor=38BDF8" /> <img src="https://img.shields.io/badge/Opacus-0B1220?style=flat&logoColor=A78BFA" />
+
+**06 / DEVELOPER TOOLS**
+
+<img src="https://img.shields.io/badge/Git-0B1220?style=flat&logo=git&logoColor=F05032" /> <img src="https://img.shields.io/badge/GitHub-0B1220?style=flat&logo=github&logoColor=F8FAFC" /> <img src="https://img.shields.io/badge/VS_Code-0B1220?style=flat&logo=visualstudiocode&logoColor=38BDF8" /> <img src="https://img.shields.io/badge/Postman-0B1220?style=flat&logo=postman&logoColor=FF6C37" />
 
 ---
 
