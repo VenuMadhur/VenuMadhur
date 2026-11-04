@@ -1,35 +1,32 @@
-
 <div align="center">
 
 # Venu Madhur
 
-**Software Developer**
+### Software Developer
 
-<img src="https://img.shields.io/badge/PYTHON-55D69A?style=flat-square&labelColor=101713" />
-<img src="https://img.shields.io/badge/REACT-55D69A?style=flat-square&labelColor=101713" />
-<img src="https://img.shields.io/badge/AI%20ENTHUSIAST-55D69A?style=flat-square&labelColor=101713" />
+**Python · Full-Stack Development · Artificial Intelligence**
 
-</div>
+Hyderabad, India · B.Tech Computer Science & Engineering · 2026
 
-<img src="assets/venu-typing-loop.gif" alt="Animated developer introduction" />
+<br/>
 
-<div align="center">
-
-<a href="https://www.linkedin.com/in/cholletivenumadhur/">
-<img src="https://img.shields.io/badge/LINKEDIN-101713?style=for-the-badge&logo=linkedin&logoColor=55D69A" alt="LinkedIn"/>
-</a>
-<a href="mailto:cholletivenumadhur@gmail.com">
-<img src="https://img.shields.io/badge/EMAIL-101713?style=for-the-badge&logo=gmail&logoColor=55D69A" alt="Email"/>
-</a>
-<a href="https://github.com/VenuMadhur">
-<img src="https://img.shields.io/badge/GITHUB-101713?style=for-the-badge&logo=github&logoColor=55D69A" alt="GitHub"/>
-</a>
+<img src="./assets/venu-typing-loop.gif" alt="Developer introduction" width="500" />
 
 <br/><br/>
 
-<sub>HYDERABAD, INDIA · B.TECH CSE · 2026</sub>
+<a href="https://github.com/VenuMadhur">
+  <img src="https://img.shields.io/badge/GitHub-101713?style=for-the-badge&logo=github&logoColor=55D69A" />
+</a>
+<a href="https://www.linkedin.com/in/cholletivenumadhur/">
+  <img src="https://img.shields.io/badge/LinkedIn-101713?style=for-the-badge&logo=linkedin&logoColor=55D69A" />
+</a>
+<a href="mailto:cholletivenumadhur@gmail.com">
+  <img src="https://img.shields.io/badge/Email-101713?style=for-the-badge&logo=gmail&logoColor=55D69A" />
+</a>
 
 </div>
+
+---
 
 ---
 
