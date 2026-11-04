@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/venu-hero.svg" alt="Venu Madhur — Software Developer, Python, React and AI Enthusiast" width="100%" />
+<img src="venu-hero.svg" alt="Venu Madhur — Software Developer, Python, React and AI Enthusiast" width="100%" />
 
 <br/>
 
