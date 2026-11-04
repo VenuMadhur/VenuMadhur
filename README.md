@@ -30,9 +30,11 @@
 
 ## ABOUT
 
-Software developer interested in building useful applications with thoughtful engineering. Work and learning span Python backend development, React interfaces, relational databases, problem-solving, and applied AI.
+I'm a Software Developer who enjoys turning ideas into practical applications through thoughtful engineering. My interests span Python development, full-stack engineering, databases, problem-solving, and Artificial Intelligence.
 
-The approach is end-to-end: understand the problem, shape the application, implement the workflows, work carefully with data, and document decisions that make software easier to maintain.
+I enjoy understanding problems from the ground up — designing solutions, building reliable workflows, working with data, and continuously improving the way software is developed.
+
+Currently focused on strengthening my engineering skills and building projects that solve meaningful problems.
 
 ## TECHNOLOGIES
 
