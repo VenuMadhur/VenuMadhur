@@ -17,7 +17,6 @@
 <a href="mailto:cholletivenumadhur@gmail.com">
   <img src="https://img.shields.io/badge/Email-0B1220?style=for-the-badge&logo=gmail&logoColor=38BDF8" />
 </a>
-
 </div>
 
 ---
