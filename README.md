@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/venu-mark.svg" alt="VM monogram in an emerald frame" width="92" />
+<img src="venu-mark.svg" alt="VM monogram in an emerald frame" width="92" />
 
 # Venu Madhur
 
