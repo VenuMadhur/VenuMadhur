@@ -6,16 +6,16 @@
 
 **Software Developer | Python | React | AI Enthusiast**
 
-Hyderabad, India
+📍 Hyderabad, India
 
 <a href="https://www.linkedin.com/in/cholletivenumadhur/">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 <a href="mailto:cholletivenumadhur@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+<img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
 <a href="https://github.com/VenuMadhur">
-  <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
 
 </div>
@@ -27,9 +27,9 @@ Hyderabad, India
 Computer Science and Engineering graduate (2026), passionate about software development, problem-solving, and building practical applications.
 
 - 💻 Focused on software and full-stack development.
-- 🐍 Working with Python and modern web technologies.
+- 🐍 Building applications using Python and modern web technologies.
 - ⚛️ Exploring React and frontend engineering.
-- 🧠 Practicing Data Structures and Algorithms.
+- 🧠 Strengthening Data Structures and Algorithms.
 - 🤖 Interested in Artificial Intelligence and Machine Learning.
 - 🚀 Passionate about transforming ideas into real-world applications.
 - 📚 Committed to continuous learning and technical growth.
@@ -38,34 +38,36 @@ Computer Science and Engineering graduate (2026), passionate about software deve
 
 ## 🛠️ Tech Stack
 
-### Programming Languages
+**Programming Languages**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,js,mysql" alt="Programming Languages"/>
+<img src="https://skillicons.dev/icons?i=python,js" alt="Python and JavaScript"/>
+<img src="https://img.shields.io/badge/SQL-Query%20Language-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL"/>
 </p>
 
-### Frontend Development
+**Frontend Development**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,react,tailwind" alt="Frontend Technologies"/>
+<img src="https://skillicons.dev/icons?i=html,css,react,tailwind" alt="HTML CSS React Tailwind CSS"/>
 </p>
 
-### Backend Development
+**Backend Development**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=flask,fastapi" alt="Backend Technologies"/>
+<img src="https://skillicons.dev/icons?i=flask,fastapi" alt="Flask and FastAPI"/>
+<img src="https://img.shields.io/badge/SQLAlchemy-ORM-D71F00?style=for-the-badge" alt="SQLAlchemy"/>
 </p>
 
-### Databases
+**Databases**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=mysql,sqlite" alt="Databases"/>
+<img src="https://skillicons.dev/icons?i=mysql,sqlite" alt="MySQL and SQLite"/>
 </p>
 
-### Tools & Platforms
+**Tools & Platforms**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" alt="Development Tools"/>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman" alt="Git GitHub VS Code Postman"/>
 </p>
 
 ---
@@ -74,15 +76,38 @@ Computer Science and Engineering graduate (2026), passionate about software deve
 
 Projects focused on software engineering, AI, machine learning, and practical problem-solving.
 
-<!-- Add verified public repository links and project demos here -->
-
-| Project | Description | Technologies |
-|---|---|---|
-| AI Mentor – Coding Platform | Personalized coding assessment and AI-powered learning platform | Python, Flask, React |
-| SkinFederated | Privacy-preserving skin lesion classification using federated learning | PyTorch, Flower, Opacus |
-| Army Health Monitoring | AI-based healthcare monitoring and risk classification | FastAPI, React, ML |
-| VIA – Health Organizer | Family health management and reminder application | React, JavaScript |
-| CodeVanta | Student project consultancy platform | Flask, SQLite, SQLAlchemy |
+<table>
+<tr>
+<th>Project</th>
+<th>Description</th>
+<th>Technologies</th>
+</tr>
+<tr>
+<td><b>AI Mentor</b></td>
+<td>Personalized coding assessment and AI-powered learning platform.</td>
+<td>Python, Flask, React</td>
+</tr>
+<tr>
+<td><b>SkinFederated</b></td>
+<td>Privacy-preserving skin lesion classification using federated learning.</td>
+<td>PyTorch, Flower, Opacus</td>
+</tr>
+<tr>
+<td><b>Army Health Monitoring</b></td>
+<td>AI-based healthcare monitoring and risk classification.</td>
+<td>FastAPI, React, ML</td>
+</tr>
+<tr>
+<td><b>VIA – Health Organizer</b></td>
+<td>Family health management, medical records and reminders.</td>
+<td>React, JavaScript</td>
+</tr>
+<tr>
+<td><b>CodeVanta</b></td>
+<td>Student project consultancy platform.</td>
+<td>Flask, SQLite, SQLAlchemy</td>
+</tr>
+</table>
 
 ---
 
@@ -90,13 +115,13 @@ Projects focused on software engineering, AI, machine learning, and practical pr
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=VenuMadhur&show_icons=true&theme=transparent&hide_border=true&rank_icon=github" alt="GitHub Statistics"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=VenuMadhur&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" alt="GitHub Statistics"/>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VenuMadhur&layout=compact&theme=transparent&hide_border=true" alt="Most Used Languages"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VenuMadhur&layout=compact&theme=github_dark&hide_border=true" alt="Most Used Languages"/>
 
-<br/>
+<br/><br/>
 
-<img width="70%" src="https://streak-stats.demolab.com?user=VenuMadhur&theme=transparent&hide_border=true" alt="GitHub Contribution Streak"/>
+<img width="75%" src="https://streak-stats.demolab.com?user=VenuMadhur&theme=github-dark-blue&hide_border=true" alt="GitHub Contribution Streak"/>
 
 </div>
 
@@ -106,7 +131,7 @@ Projects focused on software engineering, AI, machine learning, and practical pr
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=VenuMadhur&theme=github-compact&hide_border=true&area=true" width="100%" alt="Contribution Activity Graph"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=VenuMadhur&bg_color=0d1117&color=10b981&line=10b981&point=ffffff&area=true&hide_border=true" width="100%" alt="GitHub Contribution Activity"/>
 
 </div>
 
@@ -122,20 +147,18 @@ Projects focused on software engineering, AI, machine learning, and practical pr
 
 ---
 
-## 🤝 Connect With Me
+## 🤝 Let's Connect
 
 <div align="center">
 
 <a href="https://www.linkedin.com/in/cholletivenumadhur/">
-  <img src="https://img.shields.io/badge/LinkedIn-Cholleti%20Venu%20Madhur-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
-
 <a href="mailto:cholletivenumadhur@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+<img src="https://img.shields.io/badge/Gmail-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
-
 <a href="https://github.com/VenuMadhur">
-  <img src="https://img.shields.io/badge/GitHub-VenuMadhur-181717?style=for-the-badge&logo=github" alt="GitHub"/>
+<img src="https://img.shields.io/badge/GitHub-VenuMadhur-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
 
 </div>
