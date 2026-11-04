@@ -35,71 +35,46 @@ I'm a Software Developer who enjoys turning ideas into practical applications th
 I enjoy understanding problems from the ground up — designing solutions, building reliable workflows, working with data, and continuously improving the way software is developed.
 
 Currently focused on strengthening my engineering skills and building projects that solve meaningful problems.
-
+---
 ## TECHNOLOGIES
 
-<table>
-<tr>
-<td width="50%" valign="top">
+### 01 / LANGUAGES
 
-**01 / LANGUAGES**
+<img src="https://skillicons.dev/icons?i=python,js" height="32" alt="Python and JavaScript"/>
 
-<img src="https://skillicons.dev/icons?i=python,js&theme=dark" height="42" alt="Python and JavaScript icons" />
+`Python` `JavaScript` `SQL`
 
-`Python` &nbsp; `JavaScript` &nbsp; `SQL`
+### 02 / FRONTEND
 
-</td>
-<td width="50%" valign="top">
+<img src="https://skillicons.dev/icons?i=html,css,react,tailwind" height="32" alt="Frontend technologies"/>
 
-**02 / FRONTEND**
+`HTML` `CSS` `React` `Tailwind CSS`
 
-<img src="https://skillicons.dev/icons?i=html,css,react,tailwind&theme=dark" height="42" alt="HTML, CSS, React and Tailwind CSS icons" />
+### 03 / BACKEND
 
-`HTML` &nbsp; `CSS` &nbsp; `React` &nbsp; `Tailwind CSS`
+<img src="https://skillicons.dev/icons?i=flask,fastapi" height="32" alt="Backend technologies"/>
 
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
+`Flask` `FastAPI` `SQLAlchemy`
 
-**03 / BACKEND**
+### 04 / DATABASES
 
-<img src="https://skillicons.dev/icons?i=flask,fastapi&theme=dark" height="42" alt="Flask and FastAPI icons" />
+<img src="https://skillicons.dev/icons?i=mysql,sqlite" height="32" alt="Database technologies"/>
 
-`Flask` &nbsp; `FastAPI` &nbsp; `SQLAlchemy`
+`MySQL` `SQLite`
 
-</td>
-<td width="50%" valign="top">
+### 05 / DEVELOPER TOOLS
 
-**04 / DATABASES**
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman" height="32" alt="Developer tools"/>
 
-<img src="https://skillicons.dev/icons?i=mysql,sqlite&theme=dark" height="42" alt="MySQL and SQLite icons" />
+`Git` `GitHub` `VS Code` `Postman`
 
-`MySQL` &nbsp; `SQLite`
+### 06 / AI & MACHINE LEARNING
 
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
+<img src="https://skillicons.dev/icons?i=pytorch" height="32" alt="Machine learning technology"/>
 
-**05 / DEVELOPER TOOLS**
+`PyTorch` `Flower` `Opacus`
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman&theme=dark" height="42" alt="Git, GitHub, VS Code and Postman icons" />
-
-`Git` &nbsp; `GitHub` &nbsp; `VS Code` &nbsp; `Postman`
-
-</td>
-<td width="50%" valign="top">
-
-**06 / AI & MACHINE LEARNING**
-
-<sub>Used in project work</sub>
-
-`PyTorch` &nbsp; `Flower` &nbsp; `Opacus`
-
-</td>
-</tr>
-</table>
+---
 
 ---
 
