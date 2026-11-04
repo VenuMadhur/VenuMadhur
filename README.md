@@ -90,76 +90,68 @@ Currently focused on strengthening my engineering skills and building projects t
 </table>
 
 ---
----
-
-## SELECTED WORK
+## FEATURED PROJECTS
 
 <table>
-<tr>
-<td width="50%" valign="top">
+  <tr>
+    <td width="50%" valign="top">
 
 ### 01 — CineVerse
 
-**Full-stack subscription and billing workflows**
+**Full-stack subscription and billing platform**
 
-A platform covering subscription plans, payment states, invoices, refunds, reporting, and administrative operations.
+A platform for managing subscription plans, payments, invoices, refunds, and administrative workflows.
 
 `React` `FastAPI` `PostgreSQL` `Redis` `Celery`
 
-[**VIEW REPOSITORY ↗**](https://github.com/VenuMadhur/CineVerse)
+[VIEW REPOSITORY ↗](YOUR_CINEVERSE_REPOSITORY_URL)
 
-</td>
-<td width="50%" valign="top">
+    </td>
+    <td width="50%" valign="top">
 
 ### 02 — AI Programming Mentor
 
-**A structured programming-learning platform**
+**Personalized programming learning platform**
 
-Organized around learner profiles, skill assessment, personalized mentoring, coding challenges, evaluation, and progress.
+A learning platform with user profiles, skill assessments, learning analysis, and an AI mentor interface.
 
 `Python` `Flask` `React` `SQLAlchemy`
 
-<sub>Public documentation distinguishes implemented foundations from planned modules. AI integration and remaining workflows need verification.</sub>
+[VIEW REPOSITORY ↗](YOUR_AI_MENTOR_REPOSITORY_URL)
 
-[**VIEW REPOSITORY ↗**](https://github.com/VenuMadhur/ai-programming-mentor)
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
 
 ### 03 — VIA
 
-**Personal and family health organization**
+**Personal and family health organizer**
 
-A React application concept for organizing medicines, appointments, medical documents, bills, reminders, and health records.
+A health management application concept for organizing medicines, appointments, medical documents, bills, reminders, and health records.
 
 `React` `JavaScript`
 
-[**VIEW REPOSITORY ↗**](https://github.com/VenuMadhur/VIA)
+[VIEW REPOSITORY ↗](YOUR_VIA_REPOSITORY_URL)
 
-</td>
-<td width="50%" valign="top">
+    </td>
+    <td width="50%" valign="top">
 
 ### 04 — Voicebot
 
-**Voice and text assistant**
+**AI-powered voice and text assistant**
 
-Explores browser speech capabilities and Gemini-powered conversational workflows through a web interface.
+A browser-based conversational assistant exploring speech interaction and Gemini-powered responses.
 
 `React` `JavaScript` `Gemini API`
 
-[**VIEW REPOSITORY ↗**](https://github.com/VenuMadhur/Voicebot)
+[VIEW REPOSITORY ↗](YOUR_VOICEBOT_REPOSITORY_URL)
 
-</td>
-</tr>
+    </td>
+  </tr>
 </table>
 
-### MORE WORK
-
-- [Weather Status Viewer](https://github.com/VenuMadhur/weather-status-viewer) — React interface and API integration.
-- [Mini-Projects](https://github.com/VenuMadhur/Mini-Projects) — frontend exercises and small applications.
-
+---
 ---
 
 ## CURRENT ENGINEERING FOCUS
