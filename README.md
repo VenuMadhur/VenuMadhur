@@ -1,34 +1,28 @@
 
 <div align="center">
 
-<h1>
-  <font color="#55D69A">Venu Madhur</font>
-</h1>
+# Venu Madhur
 
-<h2>
-  Software Developer
-</h2>
+**Software Developer**
 
-<p>
-  <font color="#55D69A">Python</font>
-  &nbsp; / &nbsp;
-  <font color="#55D69A">React</font>
-  &nbsp; / &nbsp;
-  <font color="#55D69A">AI Enthusiast</font>
-</p>
+<img src="https://img.shields.io/badge/PYTHON-55D69A?style=flat-square&labelColor=101713" />
+<img src="https://img.shields.io/badge/REACT-55D69A?style=flat-square&labelColor=101713" />
+<img src="https://img.shields.io/badge/AI%20ENTHUSIAST-55D69A?style=flat-square&labelColor=101713" />
+
+</div>
 
 <img src="assets/typing-loop.gif" alt="Animated developer introduction" width="100%" />
 
-<br/>
+<div align="center">
 
 <a href="https://www.linkedin.com/in/cholletivenumadhur/">
-  <img src="https://img.shields.io/badge/LinkedIn-101713?style=for-the-badge&logo=linkedin&logoColor=55D69A"/>
+<img src="https://img.shields.io/badge/LINKEDIN-101713?style=for-the-badge&logo=linkedin&logoColor=55D69A" alt="LinkedIn"/>
 </a>
 <a href="mailto:cholletivenumadhur@gmail.com">
-  <img src="https://img.shields.io/badge/Email-101713?style=for-the-badge&logo=gmail&logoColor=55D69A"/>
+<img src="https://img.shields.io/badge/EMAIL-101713?style=for-the-badge&logo=gmail&logoColor=55D69A" alt="Email"/>
 </a>
 <a href="https://github.com/VenuMadhur">
-  <img src="https://img.shields.io/badge/GitHub-101713?style=for-the-badge&logo=github&logoColor=55D69A"/>
+<img src="https://img.shields.io/badge/GITHUB-101713?style=for-the-badge&logo=github&logoColor=55D69A" alt="GitHub"/>
 </a>
 
 <br/><br/>
