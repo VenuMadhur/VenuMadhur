@@ -1,24 +1,34 @@
- <div align="center">
+<div align="center">
 
-<img src="./assets/venu-midnight-tech-hero.gif" width="100%" alt="Venu Madhur — Software Developer" />
+<img src="./assets/venu-midnight-tech-hero.gif"
+     width="100%"
+     alt="Venu Madhur - Software Developer"/>
 
 <br/><br/>
 
-<img src="./assets/venu-typing-loop.gif" width="460" alt="Developer introduction" />
+<img src="./assets/venu-midnight-terminal.gif"
+     width="680"
+     alt="Animated developer terminal"/>
 
 <br/><br/>
 
 <a href="https://github.com/VenuMadhur">
-  <img src="https://img.shields.io/badge/GitHub-0B1220?style=for-the-badge&logo=github&logoColor=38BDF8" />
+  <img src="https://img.shields.io/badge/GitHub-0B1220?style=for-the-badge&logo=github&logoColor=38BDF8"/>
 </a>
 <a href="https://www.linkedin.com/in/cholletivenumadhur/">
-  <img src="https://img.shields.io/badge/LinkedIn-0B1220?style=for-the-badge&logo=linkedin&logoColor=38BDF8" />
+  <img src="https://img.shields.io/badge/LinkedIn-0B1220?style=for-the-badge&logo=linkedin&logoColor=38BDF8"/>
 </a>
 <a href="mailto:cholletivenumadhur@gmail.com">
-  <img src="https://img.shields.io/badge/Email-0B1220?style=for-the-badge&logo=gmail&logoColor=38BDF8" />
+  <img src="https://img.shields.io/badge/Email-0B1220?style=for-the-badge&logo=gmail&logoColor=38BDF8"/>
 </a>
 
+<br/><br/>
+
+<sub>Hyderabad, India · B.Tech CSE, 2026</sub>
+
 </div>
+
+---
 
 ---
 ## ABOUT
