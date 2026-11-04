@@ -157,40 +157,34 @@ A browser-based conversational assistant exploring speech interaction and Gemini
 ## CURRENT ENGINEERING FOCUS
 
 <table>
-<tr>
-<td width="33%" valign="top">
+  <tr>
+    <td width="33%" valign="top">
 
 **01 / PROBLEM SOLVING**
 
-Data structures, algorithms, and writing clear solutions.
+Strengthening data structures, algorithms, and analytical thinking through consistent practice.
 
 </td>
-<td width="33%" valign="top">
+    <td width="33%" valign="top">
 
-**02 / APPLICATION ENGINEERING**
+**02 / SOFTWARE ENGINEERING**
 
-Python APIs, React applications, data modeling, and testing.
+Building Python APIs, full-stack applications, working with databases, and writing maintainable code.
 
 </td>
-<td width="33%" valign="top">
+    <td width="33%" valign="top">
 
 **03 / APPLIED AI**
 
-Exploring practical machine learning and AI-powered workflows.
+Exploring machine learning, AI-powered applications, and practical intelligent systems.
 
 </td>
-</tr>
+  </tr>
 </table>
 
 ## GITHUB ACTIVITY
 
-[Contribution history](https://github.com/VenuMadhur?tab=overview) &nbsp; · &nbsp; [All repositories](https://github.com/VenuMadhur?tab=repositories)
-
-<!-- Uncomment after the contribution workflow succeeds and publishes to output.
-<div align="center">
-  <img src="https://raw.githubusercontent.com/VenuMadhur/VenuMadhur/output/github-contribution-grid-snake.svg" alt="Animated GitHub contribution graph" width="100%" />
-</div>
--->
+<a href="https://github.com/VenuMadhur?tab=overview">Contribution history ↗</a> &nbsp; · &nbsp; <a href="https://github.com/VenuMadhur?tab=repositories">Explore repositories ↗</a>
 
 ---
 
@@ -200,11 +194,11 @@ Exploring practical machine learning and AI-powered workflows.
 
 Open to connecting about software engineering, full-stack development, and applied AI.
 
-[LINKEDIN](https://www.linkedin.com/in/cholletivenumadhur/) &nbsp; / &nbsp;
-[EMAIL](mailto:cholletivenumadhur@gmail.com) &nbsp; / &nbsp;
-[GITHUB](https://github.com/VenuMadhur)
+<a href="https://www.linkedin.com/in/cholletivenumadhur/">LINKEDIN</a> &nbsp; / &nbsp;
+<a href="mailto:cholletivenumadhur@gmail.com">EMAIL</a> &nbsp; / &nbsp;
+<a href="https://github.com/VenuMadhur">GITHUB</a>
 
-<br/>
+<br/><br/>
 
 <sub>BUILD WITH INTENT. LEARN BY SHIPPING. IMPROVE WITH EVIDENCE.</sub>
 
