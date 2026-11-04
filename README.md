@@ -4,13 +4,11 @@
      width="100%"
      alt="Venu Madhur - Software Developer"/>
 
-<br/><br/>
-
 <img src="./assets/venu-midnight-terminal.gif"
      width="680"
      alt="Animated developer terminal"/>
 
-<br/><br/>
+<br/>
 
 <a href="https://github.com/VenuMadhur">
   <img src="https://img.shields.io/badge/GitHub-0B1220?style=for-the-badge&logo=github&logoColor=38BDF8"/>
@@ -22,7 +20,7 @@
   <img src="https://img.shields.io/badge/Email-0B1220?style=for-the-badge&logo=gmail&logoColor=38BDF8"/>
 </a>
 
-<br/><br/>
+<br/>
 
 <sub>Hyderabad, India · B.Tech CSE, 2026</sub>
 
@@ -30,7 +28,6 @@
 
 ---
 
----
 ## ABOUT
 
 Software developer interested in building useful applications with thoughtful engineering. Work and learning span Python backend development, React interfaces, relational databases, problem-solving, and applied AI.
