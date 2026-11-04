@@ -1,32 +1,36 @@
-<div align="center">
+ <div align="center">
 
-# Venu Madhur
+  <h3>Venu Madhur</h3>
 
-### Software Developer
+  <p><strong>Software Developer</strong></p>
 
-**Python · Full-Stack Development · Artificial Intelligence**
+  <p>Python &nbsp;·&nbsp; Full-Stack Development &nbsp;·&nbsp; Artificial Intelligence</p>
 
-Hyderabad, India · B.Tech Computer Science & Engineering · 2026
+  <p>
+    Hyderabad, India &nbsp;·&nbsp; B.Tech Computer Science & Engineering, 2026
+  </p>
 
-<br/>
+  <br/>
 
-<img src="./assets/venu-typing-loop.gif" alt="Developer introduction" width="500" />
+  <img src="./assets/venu-typing-loop.gif" alt="Building practical software, full-stack applications and exploring AI" width="460" />
 
-<br/><br/>
+  <br/><br/>
 
-<a href="https://github.com/VenuMadhur">
-  <img src="https://img.shields.io/badge/GitHub-101713?style=for-the-badge&logo=github&logoColor=55D69A" />
-</a>
-<a href="https://www.linkedin.com/in/cholletivenumadhur/">
-  <img src="https://img.shields.io/badge/LinkedIn-101713?style=for-the-badge&logo=linkedin&logoColor=55D69A" />
-</a>
-<a href="mailto:cholletivenumadhur@gmail.com">
-  <img src="https://img.shields.io/badge/Email-101713?style=for-the-badge&logo=gmail&logoColor=55D69A" />
-</a>
+  <p>
+    <a href="https://github.com/VenuMadhur">
+      <img src="https://img.shields.io/badge/GitHub-101713?style=for-the-badge&logo=github&logoColor=55D69A" alt="GitHub"/>
+    </a>
+    &nbsp;
+    <a href="https://www.linkedin.com/in/cholletivenumadhur/">
+      <img src="https://img.shields.io/badge/LinkedIn-101713?style=for-the-badge&logo=linkedin&logoColor=55D69A" alt="LinkedIn"/>
+    </a>
+    &nbsp;
+    <a href="mailto:cholletivenumadhur@gmail.com">
+      <img src="https://img.shields.io/badge/Email-101713?style=for-the-badge&logo=gmail&logoColor=55D69A" alt="Email"/>
+    </a>
+  </p>
 
 </div>
-
----
 
 ---
 
