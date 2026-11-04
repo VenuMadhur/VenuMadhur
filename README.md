@@ -1,22 +1,42 @@
+
 <div align="center">
 
-<img src="assets/venu-hero.svg" alt="Venu Madhur — Software Developer, Python, React and AI Enthusiast" width="100%" />
+<h1>
+  <font color="#55D69A">Venu Madhur</font>
+</h1>
 
-<img src="assets/typing-loop.gif" alt="Animated terminal text: building practical software, engineering with Python and React, exploring applied AI systems" width="100%" />
+<h2>
+  Software Developer
+</h2>
+
+<p>
+  <font color="#55D69A">Python</font>
+  &nbsp; / &nbsp;
+  <font color="#55D69A">React</font>
+  &nbsp; / &nbsp;
+  <font color="#55D69A">AI Enthusiast</font>
+</p>
+
+<img src="assets/typing-loop.gif" alt="Animated developer introduction" width="100%" />
 
 <br/>
 
-<a href="https://www.linkedin.com/in/cholletivenumadhur/"><img src="assets/linkedin.svg" alt="LinkedIn" width="24" height="24" /></a>
-&nbsp;&nbsp;&nbsp;
-<a href="mailto:cholletivenumadhur@gmail.com"><img src="assets/email.svg" alt="Email" width="24" height="24" /></a>
-&nbsp;&nbsp;&nbsp;
-<a href="https://github.com/VenuMadhur"><img src="assets/github.svg" alt="GitHub" width="24" height="24" /></a>
+<a href="https://www.linkedin.com/in/cholletivenumadhur/">
+  <img src="https://img.shields.io/badge/LinkedIn-101713?style=for-the-badge&logo=linkedin&logoColor=55D69A"/>
+</a>
+<a href="mailto:cholletivenumadhur@gmail.com">
+  <img src="https://img.shields.io/badge/Email-101713?style=for-the-badge&logo=gmail&logoColor=55D69A"/>
+</a>
+<a href="https://github.com/VenuMadhur">
+  <img src="https://img.shields.io/badge/GitHub-101713?style=for-the-badge&logo=github&logoColor=55D69A"/>
+</a>
 
 <br/><br/>
 
-`HYDERABAD, INDIA` &nbsp; · &nbsp; `B.TECH COMPUTER SCIENCE · 2026`
+<sub>HYDERABAD, INDIA · B.TECH CSE · 2026</sub>
 
 </div>
+
 ---
 
 ## ABOUT
